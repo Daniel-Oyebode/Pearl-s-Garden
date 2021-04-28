@@ -1,0 +1,9 @@
+{
+    "title": "Pearl's Garden",
+    "description":" We hope you enjoy the naturality and refreshness of  Pearl's Garden. With great pleasure it will be great having you with us again.",
+    "hours": [
+      {"day": "Mon - Fri", "time": "6am - 8pm"},
+      {"day": "Saturday", "time": "7am - 10pm"},
+      {"day": "Sunday", "time": "2pm - 7pm"}
+    ]
+  }

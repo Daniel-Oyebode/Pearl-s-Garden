@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "header": "Eat Healthy <br> and enjoy Natural Refreshing Fruits and Vegetables !",
+    "subtext": "Welcome! It's good having you here with us at Pearl's Garden. We hope you enjoy the best of your selections.",
+    "bg_image": "/images/Fruit-5.jpg",
+    "bg_image2": "/images/Fruit-6.jpg"
+  },
+
+  "about": {
+    "header": "Welcome to Pearl's Garden.",
+    "subtext": "Welcome to Pearl's Garden! We hope you enjoy the different fruits selections avaliable for the best of vitality you desire.",
+    "bg_image": "/images/Fruit-7.jpg",
+    "images": [
+      {"image":"/images/Fruit-8.jpg", "caption": "Grapes"},
+      {"image":"/images/Fruit-9.jpg", "caption": "Red-Strawberries"},
+      {"image":"/images/Fruit-10.jpg", "caption": "Blue-Berry"}
+    ]
+  },
+  "team": {
+    "subheader": "Team",
+    "header": "Meet The Team",
+    "img_background": "/images/bg_5.jpg",
+    "members": [
+      {
+        "name": "Oyebode Daniel.O",
+        "image": "/images/My-Picture.jpg",
+        "quote": "The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.",
+        "position": "CEO & Chairman of Board" 
+      },
+      {
+        "name": "Fernadez Brown",
+        "image": "/images/person_1.jpg",
+        "quote": "With God all things are possible.",
+        "position": "Executive Director" 
+      },
+      {
+        "name": "Downie J.Hupkins",
+        "image": "/images/person_2.jpg",
+        "quote": "The  King's Heart is in the hand of the Lord, as the rivers of water: He turneth it whithersoever He will.",
+        "position": "Managing Director" 
+      }
+    ]
+  },
+  "order": {
+    "subeheader": "Order",
+    "header": "Place an Order",
+    "img_background": "/images/Gardener.jpg"
+  }
+}
